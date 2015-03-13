@@ -1,0 +1,22 @@
+{
+	"name": "furtivo/api-rest",
+	"description": "A tyny API REST using silex",
+	"keywords": [ "api", "rest" ],
+	"homepage": "https://github.com/andresmazza/api-rest.git",
+	"license": "GPL",
+	"authors": [{
+		"name": "Andres Mazza",
+		"email": "andres.mazza@gmail.com"
+	}],
+	"require": {
+		"php": ">=5.3.0",
+		"silex/silex": "~1.1",
+		"doctrine/dbal": "~2.4",
+		"monolog/monolog": "~1.13"
+	},
+	"autoload": {
+		"psr-0": {
+			"App": "src/"
+		}
+	}
+}
