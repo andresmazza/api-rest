@@ -1,5 +1,17 @@
 <?php
-
+/**
+ * App Config
+ *
+ * PHP version 5.4
+ *
+ * @category   API-REST
+ * @package    App
+ * @subpackage Default
+ * @author     Andres Mazza <andres.mazza@gmail.com>
+ * @license    GPL
+ * @link       https://github.com/andresmazza/api-rest
+ * 
+ */
 namespace App;
 
 use Silex\Application;

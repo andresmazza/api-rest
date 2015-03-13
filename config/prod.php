@@ -1,4 +1,17 @@
 <?php
+/**
+ * App Config
+ *
+ * PHP version 5.4
+ *
+ * @category   API-REST
+ * @package    Config
+ * @subpackage Default
+ * @author     Andres Mazza <andres.mazza@gmail.com>
+ * @license    GPL
+ * @link       https://github.com/andresmazza/api-rest
+ * 
+ */
 use App\RoutesLoader;
 
 define("ROOT_PATH", __DIR__ . "/..");
