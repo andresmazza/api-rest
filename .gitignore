@@ -3,3 +3,4 @@ composer.lock
 var/logs/*.log
 var/cache
 *~
+/nbproject
