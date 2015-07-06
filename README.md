@@ -1,5 +1,5 @@
 # API-REST for Silex
-A Tymy Silex REST for a CRUD operations on SQLite database for Products and ProductsList entities.
+A Tiny Silex REST for a CRUD operations on SQLite database for Products and ProductsList entities.
 
 
 ####Install and Running
